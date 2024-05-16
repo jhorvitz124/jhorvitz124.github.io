@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.jhorvitz124.retrodial
+Version: 1.0
+Section: Tweaks
+Maintainer: Jvitz <Jacobhorvitz3@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm 
+Filename: ./debs/RetroDial-main-2.deb
+Size: 3756
+MD5sum: 5e8c3a2b71d39b95ee9f26a7eb35d971
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: RetroDial
+Author: Jvitz <jacobhorvitz3@gmail.com>
+
+
+
