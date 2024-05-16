@@ -31,7 +31,7 @@ Version: 1.0
 Section: Tweaks
 Maintainer: Jvitz <Jacobhorvitz3@gmail.com>
 Depends: firmware (<7.0)
-Architecture: iphoneos-arm 
+Architecture: iphoneos-arm iphoneos-arm64
 Filename: ./debs/RetroDial-main-2.deb
 Size: 3756
 MD5sum: 5e8c3a2b71d39b95ee9f26a7eb35d971
