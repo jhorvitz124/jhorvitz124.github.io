@@ -39,5 +39,18 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Name: RetroDial
 Author: Jvitz <jacobhorvitz3@gmail.com>
 
+Package: com.leftyfl1p.carbridge13_v2.0.13_iphoneos-arm64-1.deb
+Version: 2.0.13
+Section: Tweaks
+Maintainer: Jvitz <Jacobhorvitz3@gmail.com>
+Depends: firmware (<13.0)
+Architecture: iphoneos-arm 
+Filename: ./debs/com.leftyfl1p.carbridge13_v2.0.13_iphoneos-arm64-1.deb
+Size: 434160
+MD5sum: 8062c4c8dd5e9c111ced29025b66629b
+Description: Use any app on carplay 
+Name: CarBridge
+Author: Jvitz <jacobhorvitz3@gmail.com>
+
 
 
